@@ -1,10 +1,10 @@
 [submodule "differ-template-api"]
 	path = differ-template-api
-	url = git@github.com:nihatalim/differ-template-api.git
+	url = https://github.com/nihatalim/differ-template-api.git
 [submodule "differ-test-case-api"]
 	path = differ-test-case-api
-	url = git@github.com:nihatalim/differ-test-case-api.git
+	url = https://github.com/nihatalim/differ-test-case-api.git
 [submodule "differ-test-case-runner"]
 	path = differ-test-case-runner
-	url = git@github.com:nihatalim/differ-test-case-runner.git
+	url = https://github.com/nihatalim/differ-test-case-runner.git
     
