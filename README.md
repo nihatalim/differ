@@ -2,6 +2,7 @@
 
 Differ is a automatize comparison platform
 
+![System Architecture](https://github.com/nihatalim/differ/blob/main/system_diagram.png)
 
 ## Release Notes
 
